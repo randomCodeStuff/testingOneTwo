@@ -1,4 +1,4 @@
-function hello(name) {
+function helloworld(name) {
   if (typeof name === 'undefined') {
     return 'Hello!';
   } else {
