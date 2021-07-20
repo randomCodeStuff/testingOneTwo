@@ -1,0 +1,16 @@
+{
+  "name": "trysomething",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testem"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jasmine": "^3.8.0",
+    "testem": "^3.4.2"
+  }
+}
